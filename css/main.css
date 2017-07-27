@@ -25,3 +25,6 @@ a{
 	text-decoration: underline;
 	text-decoration-style: dotted;
 }
+.nologo-link{
+	font-size: 50%;
+}
